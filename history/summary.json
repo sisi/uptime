@@ -1,42 +1,38 @@
 [
   {
-    "name": "トップページ",
+    "name": "Top",
     "url": "$SECRET_SITE_TOP",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "",
+    "icon": "https://blog.hiroki.email/img/icon-512.png",
+    "slug": "top",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2021-01-05": 122
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
+    "dailyMinutesDown": {}
   },
   {
-    "name": "備忘録",
+    "name": "Blog",
     "url": "$SECRET_SITE_BLOG",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "",
+    "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
+    "slug": "blog",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2021-01-05": 122
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
+    "dailyMinutesDown": {}
   }
 ]
