@@ -53,7 +53,5 @@ i18n:
   degradedPerformance: "🟨 Degraded performance"
   completeOutage: "🟥 Complete outage"
   partialOutage: "🟧 Partial outage
-  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-#aaa
