@@ -33,10 +33,10 @@ i18n:
   status: "状況"
   history: "履歴"
   responseTime: "応答時間"
-  up: "🟩 稼働"
-  degraded: "🟨 低下"
-  down: "🟥 ダウン"
-  responseTimeGraphAlt: "応答時間のグラフ"
+  up: "🟩 Up"
+  degraded: "🟨 Degraded"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Response time graph"
   ms: "秒"
   responseTimeDay: "24時間の応答時間"
   responseTimeWeek: "7日間の応答時間"
@@ -56,3 +56,4 @@ i18n:
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+#aaa
