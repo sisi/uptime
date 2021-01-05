@@ -27,5 +27,34 @@ status-website:
     - title: 備忘録
       href: https://blog.hiroki.email
 
+i18n:
+  footer: 
+  url: "URL"
+  status: "状況"
+  history: "履歴"
+  responseTime: "応答時間"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Degraded"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Response time graph"
+  ms: "秒"
+  responseTime: "Response time"
+  responseTimeDay: "24時間の応答時間"
+  responseTimeWeek: "7日間の応答時間"
+  responseTimeMonth: "30日間の応答時間"
+  responseTimeYear: "1年間の応答時間"
+  uptime: "全ての稼働時間"
+  uptimeDay: "1日の稼働状況"
+  uptimeWeek: "週の稼働状況"
+  uptimeMonth: "1ヶ月の稼働状況"
+  uptimeYear: "1年の稼働状況"
+  liveStatus: "現在の状況"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 全てのシステムが稼働しています。"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
