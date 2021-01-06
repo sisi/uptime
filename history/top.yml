@@ -1,7 +1,7 @@
-url: $SECRET_SITE_TOP  
+url: $SECRET_SITE_TOP
 status: up
 code: 200
-responseTime: 529
-lastUpdated: 2021-01-05T23:19:46.884Z
+responseTime: 323
+lastUpdated: 2021-01-06T23:20:59.752Z
 startTime: Tue Jan 05 2021 13:09:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
