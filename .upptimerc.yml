@@ -10,6 +10,12 @@ sites:
   - name: Blog
     url: $SECRET_SITE_BLOG
     icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
+  - name: API Server
+    url: $SECRET_SITE_API
+    icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
+  - name: Storage Server
+    url: $SECRET_SITE_FS
+    icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
 
 status-website:
   apiBaseUrl: https://api.github.com
