@@ -16,6 +16,8 @@ sites:
   - name: Storage Server
     url: $SECRET_SITE_FS
     icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
+  - name: Twitter
+    url: https://twitter.com/
 
 status-website:
   apiBaseUrl: https://api.github.com
