@@ -1,7 +1,7 @@
 url: https://api.twitter.com/1.1/statuses/update.json
 status: up
 code: 400
-responseTime: 206
-lastUpdated: 2021-01-24T13:51:10.228Z
+responseTime: 105
+lastUpdated: 2021-01-24T23:29:35.903Z
 startTime: Sun Jan 24 2021 13:51:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
