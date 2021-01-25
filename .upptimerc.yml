@@ -10,15 +10,11 @@ sites:
   - name: Blog
     url: $SECRET_SITE_BLOG
     icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
-  - name: API Server
+  - name: API & Storage Server
     url: $SECRET_SITE_API
-    icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
-  - name: Storage Server
-    url: $SECRET_SITE_FS
     icon: https://blog.hiroki.email/author/hiroki/avatar.jpg
 
 status-website:
-  apiBaseUrl: https://api.github.com
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.hiroki.email
   # Uncomment the following line if you don't have a custom domain and add your repo name
