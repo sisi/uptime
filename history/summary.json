@@ -5,11 +5,11 @@
     "icon": "https://blog.hiroki.email/img/icon-512.png",
     "slug": "top",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 593,
     "timeDay": 157,
     "timeWeek": 378,
@@ -24,9 +24,9 @@
     "url": "$SECRET_SITE_BLOG",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 376,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 0
+    }
   },
   {
     "name": "API & Storage Server",
