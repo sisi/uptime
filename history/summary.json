@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
-    "time": 593,
-    "timeDay": 157,
-    "timeWeek": 378,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "time": 582,
+    "timeDay": 104,
+    "timeWeek": 374,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2021-01-24": 130
     }
@@ -25,19 +25,17 @@
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 335,
-    "timeDay": 626,
-    "timeWeek": 367,
-    "timeMonth": 335,
-    "timeYear": 335,
-    "dailyMinutesDown": {
-      "2021-02-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 334,
+    "timeDay": 290,
+    "timeWeek": 361,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API & Storage Server",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 367,
-    "timeWeek": 468,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "time": 445,
+    "timeDay": 364,
+    "timeWeek": 464,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   }
 ]
