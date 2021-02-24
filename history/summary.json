@@ -5,16 +5,16 @@
     "icon": "https://blog.hiroki.email/img/icon-512.png",
     "slug": "top",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.81%",
-    "time": 500,
-    "timeDay": 245,
-    "timeWeek": 376,
-    "timeMonth": 565,
-    "timeYear": 500,
+    "uptimeYear": "99.82%",
+    "time": 498,
+    "timeDay": 372,
+    "timeWeek": 380,
+    "timeMonth": 562,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2021-01-24": 130
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 301,
-    "timeWeek": 337,
-    "timeMonth": 314,
-    "timeYear": 328,
+    "time": 323,
+    "timeDay": 67,
+    "timeWeek": 326,
+    "timeMonth": 312,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 526,
-    "timeDay": 545,
-    "timeWeek": 565,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 528,
+    "timeDay": 590,
+    "timeWeek": 574,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2021-02-17": 29
     }
