@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_TOP",
     "icon": "https://blog.hiroki.email/img/icon-512.png",
     "slug": "top",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 143,
-    "timeWeek": 134,
-    "timeMonth": 128,
+    "timeDay": 176,
+    "timeWeek": 146,
+    "timeMonth": 131,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2021-10-29": 0
+      "2021-10-29": 6
     }
   },
   {
