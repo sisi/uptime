@@ -40,17 +40,17 @@
     "url": "$SECRET_SITE_API",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "api-and-storage-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 526,
-    "timeWeek": 530,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "timeDay": 618,
+    "timeWeek": 546,
+    "timeMonth": 614,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   }
 ]
