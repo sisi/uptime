@@ -4,7 +4,7 @@
     "url": "$SECRET_SITE_TOP",
     "icon": "https://blog.hiroki.email/img/icon-512.png",
     "slug": "top",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 153,
-    "timeWeek": 165,
+    "timeWeek": 164,
     "timeMonth": 175,
     "timeYear": 170,
     "dailyMinutesDown": {}
