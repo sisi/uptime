@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_BLOG",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 151,
     "timeDay": 152,
     "timeWeek": 142,
-    "timeMonth": 144,
+    "timeMonth": 145,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
