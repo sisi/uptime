@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 185,
-    "timeWeek": 179,
+    "timeDay": 181,
+    "timeWeek": 178,
     "timeMonth": 179,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_BLOG",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 125,
     "timeWeek": 141,
     "timeMonth": 141,
-    "timeYear": 156,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 804,
-    "timeWeek": 1494,
+    "timeDay": 539,
+    "timeWeek": 1484,
     "timeMonth": 977,
-    "timeYear": 684,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   }
 ]
