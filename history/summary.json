@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 154,
-    "timeWeek": 179,
+    "timeWeek": 180,
     "timeMonth": 178,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_BLOG",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 139,
-    "timeWeek": 135,
+    "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 154,
     "dailyMinutesDown": {}
