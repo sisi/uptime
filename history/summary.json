@@ -4,15 +4,15 @@
     "url": "$SECRET_SITE_TOP",
     "icon": "https://blog.hiroki.email/img/icon-512.png",
     "slug": "top",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 174,
-    "timeWeek": 182,
+    "time": 168,
+    "timeDay": 173,
+    "timeWeek": 180,
     "timeMonth": 178,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_BLOG",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 135,
-    "timeWeek": 137,
+    "timeWeek": 136,
     "timeMonth": 140,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "timeDay": 638,
     "timeWeek": 1416,
     "timeMonth": 974,
-    "timeYear": 683,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   }
 ]
