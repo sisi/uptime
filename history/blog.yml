@@ -1,7 +1,7 @@
 url: $SECRET_SITE_BLOG
-status: down
-code: 403
-responseTime: 219
-lastUpdated: 2025-04-08T14:32:23.770Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2025-04-08T14:44:40.609Z
 startTime: 2021-01-05T13:09:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
