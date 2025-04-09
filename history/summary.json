@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 151,
-    "timeWeek": 165,
+    "timeDay": 146,
+    "timeWeek": 166,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {}
@@ -40,17 +40,17 @@
     "url": "$SECRET_SITE_API",
     "icon": "https://blog.hiroki.email/author/hiroki/avatar.jpg",
     "slug": "api-and-storage-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
+    "time": 664,
     "timeDay": 720,
     "timeWeek": 721,
-    "timeMonth": 634,
-    "timeYear": 684,
+    "timeMonth": 635,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   }
 ]
